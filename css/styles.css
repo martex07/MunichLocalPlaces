@@ -1,0 +1,90 @@
+
+
+body{
+  text-align: center;
+  font-family: 'Londrina Solid-Black', cursive;
+  line-height: 2;
+}
+h1, h2, h3, h4, h5, h6{
+  padding: 3%;
+  font-family: 'Londrina Solid', cursive;
+}
+
+p{
+  font-family: 'Londrina Solid-Black', cursive;
+}
+/* Navbar */
+
+
+.navbar-text{
+  padding-left: 7%;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+/* Title */
+
+
+.container-top{
+  background-color: #144d53;
+  padding: 5%;
+}
+.title-img{
+  padding: 3% 7%;
+}
+.text-heading{
+  padding-top: 3%;
+  text-align: left;
+}
+
+/* Features */
+.column-features{
+  padding: 3%;
+}
+
+.text-features{
+  margin: 0;
+  padding: 10% 15%;
+}
+/* Pricing */
+.pricing-col{
+  padding: 10% 15%;
+  font-family: 'Londrina Solid', cursive;
+}
+
+/* Testimonials */
+
+#testimonials{
+  background-color: #307672;
+}
+.carousel-item{
+  padding: 10% 15%;
+}
+.img-marcus{
+  width: 200px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 3%;
+}
+.img-stefania{
+  width: 200px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 3%;
+}
+/* Bottom Download */
+
+.conteiner-bottom{
+  background-color: #144d53;
+  padding: 10% 15%;
+}
+
+/* Fotter */
+
+.copyright{
+  padding: 10% 7% 2%;
+}
+.icon-media{
+  padding: 2px;
+}
