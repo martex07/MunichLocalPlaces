@@ -14,7 +14,9 @@ p{
   font-family: 'Londrina Solid-Black', cursive;
 }
 /* Navbar */
-
+.navbar{
+  margin: 0;
+}
 
 .navbar-text{
   padding-left: 7%;
@@ -28,7 +30,7 @@ p{
 
 .container-top{
   background-color: #144d53;
-  padding: 5%;
+  padding: 0 5% 5% 5%;
 }
 .title-img{
   padding: 3% 7%;
